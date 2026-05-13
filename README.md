@@ -6,6 +6,7 @@
 | 小组   | 第 3 组 |
 | 成员   | 刘飞龙（25210190）、廖婉琼（25210178）、刘凤里（25210191）、高思远（25210133）、杨艺欣（25210279）、司徒靖（25210231）、甘立杰（25210131） |
 | GitHub | https://github.com/ganlijie-code/ds2026-G03-T-A2 |
+| Pages  | https://ganlijie-code.github.io/ds2026-G03-T-A2/|
 | 日期   | 2026-05-13 |
 # 项目名称 — 模块说明
 # T-A2_Magnificent7
